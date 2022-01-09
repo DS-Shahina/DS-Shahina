@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**DS-Shahina/DS-Shahina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello I'm Shahina Athar 👋
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Data Science
