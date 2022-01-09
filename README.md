@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Data Science queries
-- 💬 Ask me about Python, Machine Learning
+- 💬 Ask me about Python, Machine Learning, SQL
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: She/Her
 
