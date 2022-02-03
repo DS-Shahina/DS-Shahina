@@ -34,7 +34,9 @@ last but not the least music lover
 
 #### About my goal / ambition / Wish,
 
-Special word before my name - "Data Scientist"
+Special word before my name - "Data Scientist" 
+
+I want to become Outlier in the Data Science Field.
 
 Online Mentor for courses like in Udemy (Atleast one course related to Data Science)
 
