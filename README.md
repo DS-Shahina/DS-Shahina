@@ -1,4 +1,8 @@
-### Hello I'm Shahina Athar 👋
+#### Hi there 👋
+
+#### About me in short,
+
+IBM Certified Data Scientist, looking for a transition to the Data Scientist Role. With interest in analyzing raw data and statistics, brings excellent communication abilities with hands-on experience in building machine learning models with deployment and creating dashboards with a story to tell.
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Data Science
