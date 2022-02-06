@@ -36,7 +36,7 @@ last but not the least music lover
 
 Special word before my name - "Data Scientist" 
 
-I want to become Outlier in the Data Science Field.
+I want to become an Outlier in the Data Science Field.
 
 Online Mentor for courses like in Udemy (Atleast one course related to Data Science)
 
