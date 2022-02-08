@@ -6,7 +6,7 @@ IBM Certified Data Scientist, looking for a transition to the Data Scientist Rol
 
 #### About my experience,
 
-I have 1.5+ years of experience as Python Developer
+I have 2 years of experience as Python Developer
 
 I have good Knowledge in Data Science domain also
 
