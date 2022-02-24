@@ -20,7 +20,7 @@ Degree is just for the society, but have an intention to learn new things to cra
 
 #### About my interest,
 
-Got addiction in learning Statistics (not again after schoolong but for Data Science), Machine Learning and Python.
+Got addiction in learning Statistics (not again after school but for Data Science), Machine Learning and Python.
 
 #### About my hobbies,
 
