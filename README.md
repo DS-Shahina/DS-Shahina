@@ -2,11 +2,11 @@
 
 #### About me in short,
 
-IBM Certified Data Scientist, looking for a transition to the Data Scientist Role. With interest in analyzing raw data and statistics, brings excellent communication abilities with hands-on experience in building machine learning models with deployment and creating dashboards with a story to tell.
+IBM Certified Data Scientist, looking for an opportunity in the Data Science Domain. With interest in analyzing raw data and statistics, brings excellent communication abilities with hands-on experience in building machine learning models with deployment and creating dashboards with a story to tell.
 
 #### About my experience,
 
-I have 2 years of experience as Python Developer
+I have 1+ year of relevant experience in data science domain.
 
 I have good Knowledge in Data Science domain also
 
