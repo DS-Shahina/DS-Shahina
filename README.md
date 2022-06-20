@@ -6,7 +6,7 @@ IBM Certified Data Scientist, looking for an opportunity in the Data Science Dom
 
 #### About my experience,
 
-I have 1+ year of relevant experience in data science domain.
+I a total of 3+ years of IT industry experience.
 
 I have good Knowledge in Data Science domain also
 
